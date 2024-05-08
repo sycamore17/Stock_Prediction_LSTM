@@ -1,1 +1,2 @@
 # Stock_Prediction_LSTM
+通过tushare拉取股票数据，基于LSTM对股票的开盘价和收益率进行预测
